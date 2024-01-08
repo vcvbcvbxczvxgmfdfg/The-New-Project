@@ -1,0 +1,251 @@
+/* banner style start  */
+
+
+.section-title{
+   
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+  
+}
+.section-header{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+   
+   
+   
+}
+h4{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+   padding-top: 0px;
+
+    font-weight: 700;
+
+}
+.offer{
+    text-align: center;
+    padding-top: 120px;
+    
+
+}
+    
+.banner{
+    background-image: url(../images/Banner\ Image.png);
+    text-align: center; 
+    margin: 50px 170px 0px 170px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 177px 344px;
+    
+}
+.banner-title{
+    color:white;
+   
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+
+}
+.banner-header{
+    color: white;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+   
+}
+.mid-night-party{
+    background-image: url(../images/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-size: 1320px 600px
+    background-position: center;
+    margin: 50px 170px 0px 170px;
+    padding: 100px 590px 300px 126px
+   
+   
+   
+   
+}
+
+.mid-header{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+   
+    
+    font-weight: 900;
+    
+   
+   
+}
+.mid-title{
+    color: rgba(255, 255, 255, 0.80);
+
+font-family: Inter;
+font-size: 18px;
+
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+.mid-night{
+    background-color: #3a3838;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+padding-top: 10px;
+}
+.new-year-address{
+    background-color: light rgb(231, 14, 50);
+    font-family: Inter;
+     align-items: center;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+}
+div  span{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 56px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px; /* 175% */
+text-transform: capitalize;
+}
+.red-btn{
+    background-color: red;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Inter;
+    text-transform: uppercase;
+   color: #FFF;
+    border: 0px;
+    display: inline-flex;
+
+    justify-content: center;
+    align-items: center;
+     gap: 10px;
+    border-radius: 8px;
+    margin-left: 856px;
+    padding: 14px 32px;
+}
+table{
+    text-align: center;
+    margin-top: 50px;
+    padding-left: 180px;
+    
+   
+
+}
+tr{
+   
+}
+td {
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    
+    padding: 10px;
+}
+.subscribe{
+    background-color: lightpink;
+    text-align: center;
+    justify-content: center;
+    margin: 110px;
+    padding: 177px 344px;
+
+    
+}
+.su-title{
+    font-size: 32px;
+ font-style: normal;
+ font-weight: 600;
+ line-height: 56px;
+}
+.sub-content{
+    color: rgba(113, 109, 109, 0.774);
+
+    font-family: Inter;
+    font-size: 18px;
+    
+    font-weight: 400;
+    line-height: 30px; 
+}
+.sub-btn{
+    background-color: #F00;
+    border: 0px;
+    color: white;
+    border-radius: 80px;
+   
+    
+    
+    padding: 14px 32px;
+}
+
+
+footer{
+    background-color:  #070211;
+}
+.last{
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+
+    display: flex;
+    justify-content: space-between;
+
+   
+}
+.icon{
+    text-align: center;
+}
+.last p{
+    margin-left: 120px;
+    margin-top: 110px;
+}
+ul li{
+    margin-right: 120px;
+    text-decoration: none;
+    
+    
+}
+ul{
+    margin-top: 110px;
+}
+
+footer hr{
+   margin: 0px 130px;
+   margin-bottom: 50px;
+   margin-top: 50px;
+   
+}
+
+.last-word{
+    display: flex;
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+    justify-content:space-between;
+    
+}
+.first{
+    margin-left: 130px;
+  
+}
+.sceond{
+    margin-right: 130px;
+}
+
